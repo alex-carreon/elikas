@@ -245,18 +245,18 @@ Data is transmitted via HTTP POST requests to the eLikas server endpoint for sen
     - [x] **HTTP POST Integration:** Can push JSON Payloads
     - [x] **NTP Timestamping:** Synchronize system clock with global time servers 
           
-- [ ] **Phase 3: Logic & Reliability**
+- [x] **Phase 3: Logic & Reliability**
     - [x] **Over-the-Air (OTA) Updates:** Enable remote firmware updates 
     - [X] **Signal Filtering:** Implement a median-based algorithm to stabilize water surface readings.
 
-- [ ] **Phase 4: Final Hardware & Power**
-    - [ ] **Power Circuitry:** Solder 2x rechargeable Li-ion batteries.
-    - [ ] **Physical Interface:** Add a physical power toggle switch.
-    - [ ] **Local Display:** Integrate an LCD display.
+- [x] **Phase 4: Final Hardware & Power**
+    - [x] **Power Circuitry:** Solder 2x rechargeable Li-ion batteries.
+    - [x] **Physical Interface:** Add a physical power toggle switch.
+    - [x] **Local Display:** Integrate an LCD display.
 
-- [ ] **Phase 5: Deployment**
-    - [ ] **Enclosure:** Design/assemble a weather-resistant housing for the ESP32 and power components.
-    - [ ] **Field Testing:** Real-world test as a standalone unit beyond bench testing.
+- [x] **Phase 5: Deployment**
+    - [x] **Enclosure:** Design/assemble a weather-resistant housing for the ESP32 and power components.
+    - [x] **Field Testing:** Real-world test as a standalone unit beyond bench testing.
     - [X] **PWA Integration:** Map-side visualization of crowdsourced flood data.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
